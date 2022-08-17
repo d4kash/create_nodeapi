@@ -104,6 +104,7 @@
         "2023-2026",
         "2023-2027"
     ],
+    "basic fee":{"Prospectus Fee":"400", "Admission Fee":"1000", "I.D. Card Fee":"100","Bus Fee":"600","Exam Fee":"1000"},
     "Diploma in Information Technology": {
         "departement": "Department: Information Technology",
         "course": "Course Full Name : Diploma in Information Technology",
