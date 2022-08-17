@@ -1,0 +1,26 @@
+{
+  "name": "node_create",
+  "version": "1.0.0",
+  "description": "create_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4kash/create_nodeapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4kash/create_nodeapi/issues"
+  },
+  "homepage": "https://github.com/d4kash/create_nodeapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.13.2"
+  }
+}
